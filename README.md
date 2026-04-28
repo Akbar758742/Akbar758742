@@ -2,7 +2,6 @@
 <h3 align="center">A passionate php/laravel developer from Bangladesh</h3>
 - 🌱 I’m currently learning **React-js**
 
-- 👨‍💻 All of my projects are available at [https://mohammeddakbarportfolio.netlify.app/](https://mohammeddakbarportfolio.netlify.app/)
 
 - 📫 How to reach me **mdakbar758742@gmail.com**
 
