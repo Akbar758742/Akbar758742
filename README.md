@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm akbar hossen</h1>
 <h3 align="center">A passionate php/laravel developer from Bangladesh</h3>
-- 🌱 I’m currently learning **React-js**
+
 
 
 - 📫 How to reach me **mdakbar758742@gmail.com**
