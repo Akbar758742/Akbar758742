@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm akbar hossen</h1>
+<!-- <h1 align="center">Hi 👋, I'm akbar hossen</h1> -->
 <h3 align="center">A passionate php/laravel developer from Bangladesh</h3>
 
 
