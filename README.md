@@ -1,19 +1,81 @@
-<!-- <h1 align="center">Hi 👋, I'm akbar hossen</h1> -->
-<h3 align="center">A passionate php/laravel developer from Bangladesh</h3>
+# Hi, I'm Akbar Hossen 👋
 
+### Full-Stack Web Developer | Laravel • PHP • React • Next.js
 
+I’m a software developer from Bangladesh passionate about building **scalable web applications, robust backend systems, and modern user experiences**.
 
-- 📫 How to reach me **mdakbar758742@gmail.com**
+- 💻 Currently working on backend development with **PHP and Laravel**
+- 🚀 Exploring modern frontend development with **React and Next.js**
+- 🏗️ Interested in SaaS products, eCommerce platforms, REST APIs, and system architecture
+- 🌱 Always learning, building, and improving my problem-solving skills
+- 📫 Reach me at **[mdakbar758742@gmail.com](mailto:mdakbar758742@gmail.com)**
+- ⚡ Fun fact: I enjoy turning complex problems into clean, maintainable solutions.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.leetcode.com/akbar_758742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akbar_758742" height="30" width="40" /></a>
+  <a href="https://github.com/akbar758742">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.leetcode.com/akbar_758742">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:mdakbar758742@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbar758742&show_icons=true&locale=en&layout=compact" alt="akbar758742" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbar758742&" alt="akbar758742" /></p>
+**Backend Development**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="Backend technologies" />
+</p>
+
+**Frontend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" alt="Frontend technologies" />
+</p>
+
+**Databases & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,figma,linux,docker" alt="Databases and development tools" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akbar758742&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Akbar's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbar758742&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akbar758742&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akbar758742/akbar758742/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Build with purpose. Write clean code. Keep learning.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
